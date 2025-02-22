@@ -1,3 +1,4 @@
 12.10
-Introduced FIRMWATE UPDSTES!
+Introduced FIRMWATE UPDATES!
 Minor Bug Fixes.
+Screen Brightness toggle now works as it should.
