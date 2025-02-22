@@ -1,4 +1,4 @@
-13
+Ver. 13.0
 Introduced FIRMWATE UPDATES!
 Minor Bug Fixes.
 Screen Brightness toggle now works as it should.
