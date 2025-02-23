@@ -1,4 +1,5 @@
-Ver. 13.0
+Ver. 12.11
 Introduced FIRMWATE UPDATES!
+Nigt Mode
 Minor Bug Fixes.
 Screen Brightness toggle now works as it should.
