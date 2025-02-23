@@ -1,3 +1,5 @@
+Ver. 12.13
+Fixed IP scroll on OLED
 Ver. 12.12
 Heater State temp rise check bug fix.
 Ver. 12.11
