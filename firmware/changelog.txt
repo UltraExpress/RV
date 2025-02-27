@@ -1,3 +1,5 @@
+Ver. 12.14
+Cleaned up code
 Ver. 12.13
 Fixed IP scroll on OLED
 Ver. 12.12
