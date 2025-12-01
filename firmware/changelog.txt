@@ -1,4 +1,5 @@
-
+Ver. 12.15
+Bug fixes and improvements
 Ver. 12.14
 Cleaned up code
 Ver. 12.13
